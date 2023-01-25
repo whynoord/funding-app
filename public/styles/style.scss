@@ -1,0 +1,68 @@
+section {
+    // margin-bottom: 20px;
+    padding: 20px 20px 0px 20px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    font-size: 10px;
+}
+
+.navbar {
+    background-color: #0D6EFD;
+}
+
+p {
+    margin: 0;
+}
+
+.action-call {
+    margin-bottom: 100px;
+}
+
+.info {
+    h6 {
+        margin-bottom: 0;
+    }
+}
+
+.home {
+    .col {
+        max-height: 108px;
+    }
+
+    .img-container {
+        overflow: hidden;
+    }
+
+    .proposal-title {
+        font-weight: 600;
+        font-size: 12px;
+    }
+}
+
+.text-title {
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.detail {
+    .detail-text {
+        font-size: 13px;
+    }
+}
+
+.footer {
+    position: fixed;
+    bottom: 0px;
+    font-size: 13px;
+    background-color: white;
+
+    i {
+        font-size: 25px;
+    }
+}
+
+.main {
+    padding-bottom: 73px;
+}
