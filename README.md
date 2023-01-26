@@ -7,4 +7,4 @@ Aplikasi ini mempertemukan pencari modal dengan investor.
 - Akun: Berisi daftar proposal aktif, bisnis yang telah diinvest dan diberi donasi
 
 ## DEMO
-<a href="https://warty-oranges.000webhostapp.com/">Click here to see the demo</a>
+<a href="https://warty-oranges.000webhostapp.com/">Click here to see the demo (mobile)</a>
